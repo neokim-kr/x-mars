@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 326f38c4e2de0b91d50abbf1b95c0f07c8a3b633 neokim <neokim.kr@gmail.com> 1696135956 +0900	commit (initial): x-mars 프로젝트 최초 커밋
+326f38c4e2de0b91d50abbf1b95c0f07c8a3b633 f51ac2ed0ea16b9940ba45cc99e5d669c18f4dbe neokim <neokim.kr@gmail.com> 1696138544 +0900	commit: 타이틀 변경
+f51ac2ed0ea16b9940ba45cc99e5d669c18f4dbe 12990d9aca452af0ed7b041a7e93273f4be52e92 neokim <neokim.kr@gmail.com> 1696305487 +0900	commit: ALLOWED_HOSTS 변경
+12990d9aca452af0ed7b041a7e93273f4be52e92 c528fb0fa4ec33d10185eb7edd6db4a468eebf6f neokim <neokim.kr@gmail.com> 1698551475 +0900	commit: settings 변경
+c528fb0fa4ec33d10185eb7edd6db4a468eebf6f 1630eaf6cd79370a3cbe49226a6f9e2d9379ffdb neokim <neokim.kr@gmail.com> 1699755631 +0900	commit: STATIC_ROOT 생성
+1630eaf6cd79370a3cbe49226a6f9e2d9379ffdb 4a56734d6970d75392fc66fd7da2a3adca549596 neokim <neokim.kr@gmail.com> 1699759221 +0900	commit: DEBUG 추가
+4a56734d6970d75392fc66fd7da2a3adca549596 63d2f327e17e99f46925ec897424ac11ebea6ee2 neokim <neokim.kr@gmail.com> 1699760215 +0900	commit: 404 오류 확인
+63d2f327e17e99f46925ec897424ac11ebea6ee2 63d2f327e17e99f46925ec897424ac11ebea6ee2 neokim <neokim.kr@gmail.com> 1699761306 +0900	checkout: moving from master to master
